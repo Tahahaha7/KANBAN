@@ -40,6 +40,7 @@ Directory/KANBAN
 │   ├── __init__.py
 │   ├── routes.py
 │   ├── app.sqlite
+│   ├── test.sqlite
 │   ├── templates/
 │   │   └── index.html
 ├── requirements.txt
